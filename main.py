@@ -1,3 +1,4 @@
+#CRIANDO PR
 #CHAMDAS NECESSARIAS PARA CRIAÇÃO DA API
 import psycopg2
 from flask import Flask, make_response, jsonify, request
